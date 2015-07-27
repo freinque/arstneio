@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -I/usr/include/    -lgsl -lgslcblas -lm CMakeFiles/arst_neio.dir/app.cpp.o CMakeFiles/arst_neio.dir/main.cpp.o CMakeFiles/arst_neio.dir/arst_neio_plomp_levelt.cpp.o CMakeFiles/arst_neio.dir/arst_neio_gene.cpp.o CMakeFiles/arst_neio.dir/moc_app.cxx.o  -o ../../bin/arst_neio-0.1.1 -rdynamic -lQtGui -lQtCore 
